@@ -1,0 +1,56 @@
+body{
+    background-image: url('Photos/Desktop\ -\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-color:  #353535;
+    display: grid;
+    grid-template-columns: 100px 1fr;
+}
+.Ellipse-4{
+    width: 100px;
+}
+.logo{
+    position: fixed;
+    top: 0;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 80px;
+    margin-top: 20px;
+    position: fixed;
+    width: 92%;
+    top: 0;
+}
+.nav a{
+    font-family: Sen;
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 15px;
+    font-size: px;
+}
+.nav button{
+    background-color: black;
+    color: aliceblue;
+    margin-left: 20px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-width: 0px;
+    border-radius: 10px;
+    border-color: black;
+    cursor: pointer;
+}
+.button-login{
+    margin-right: 20px;
+}
+.image-6{
+    margin-top: 100px;
+    width: 1266px;
+    height: 490px;
+}
+.about-title{
+    text-decoration: underline;
+}
